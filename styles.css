@@ -422,3 +422,5 @@
  .project-feature:has(> .project-info > .case-study[open])>.project-info{order:1}
 }
 @media(max-width:700px){.education-record .coursework-grid{grid-template-columns:minmax(0,1fr);gap:6px}}
+
+@media(max-width:700px){html{scroll-padding-top:88px}}
